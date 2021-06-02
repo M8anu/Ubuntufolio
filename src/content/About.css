@@ -1,0 +1,31 @@
+.AboutBody {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  text-align: left;
+  width: 70%;
+  margin: 10% 15%;
+  color: #333;
+}
+.whoami{
+  background-color: black;
+  color: whitesmoke;
+}
+.AboutBody a{
+  color: #F08763;
+  text-decoration: none;
+}
+.ProfilePic {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin-bottom: 10px;
+}
+.ProfilePic img {
+  border: 1px solid #e95420;
+  border-top-left-radius: 50% 50%;
+  border-top-right-radius: 50% 50%;
+  border-bottom-right-radius: 50% 50%;
+  border-bottom-left-radius: 50% 50%;
+}

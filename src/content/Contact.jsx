@@ -6,7 +6,8 @@ import ListGroup from '../components/ListGroup';
 export default function Contact() {
   return (
     <div className="ContactBody">
-      <h1>This is how you can reach me!</h1>
+      <h1>This is where you can reach me now</h1>
+      <h1>(Of course an U2 song reference, listen to it! :P)</h1>
       <div>
         {/* <h4>Find me on</h4> */}
         <ListGroup>

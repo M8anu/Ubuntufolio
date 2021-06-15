@@ -22,8 +22,8 @@ export default function About() {
         <h1 className="whoami">Wh0 am I?</h1>
         <Typist.Backspace count={6} delay={500} />
         <h2>I am Manuel Ariza L&oacute;pez</h2>
-        <h3>Junior Software Engineer. Available for Full-time Remote or In-Office work opportunities.</h3>
-        <h3>Focused on creating beautiful User Experiences, videogames and videoconsoles, backend development, server administration and many more!</h3>
+        <h3>Junior Software Engineer.</h3>
+        <h3>Focused on development, serverside administration, CI/CD building and many more!</h3>
         <h3> 
           Recently graduated{' '}
           <a href="https://www.uma.es/grado-en-ingenieria-del-software" target="_blank" rel="noopener noreferrer">

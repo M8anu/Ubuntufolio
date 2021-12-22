@@ -24,6 +24,7 @@ export default function About() {
         <h2>I am Manuel Ariza L&oacute;pez</h2>
         <h3>Junior Software Engineer.</h3>
         <h3>Focused on development, serverside administration, CI/CD building and many more!</h3>
+        <h3>Currently working as DevOps Engineer at Verisk Sequel Business Solutions</h3>
         <h3> 
           Recently graduated{' '}
           <a href="https://www.uma.es/grado-en-ingenieria-del-software" target="_blank" rel="noopener noreferrer">
@@ -37,7 +38,7 @@ export default function About() {
             here.
           </a>
         </h3>
-        <h3>In order to enjoy an Ubuntu-alike experience, view in full screen mode(F11 in most browsers).</h3>
+        <h3>In order to enjoy an Ubuntu-alike experience, view in full screen mode(F11 in most browsers). Site still in progress.</h3>
       </Typist>
     </div>
   );

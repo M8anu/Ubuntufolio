@@ -41,6 +41,22 @@ export default function WebExp() {
           </p>
         </div>
       </div>
+
+      <div className="ExpCard">
+        <div className="ExpContent">
+          {/**/}
+          <p>
+          DevOps Engineer at Verisk Sequel Business Solutions
+            <br />
+            Experience: July 2021 - 
+          </p>
+          <p>
+          In charge of environment deploys, both in Microsoft Azure DevOps and AWS, scripting, database management. 
+          Continuous integration and migration from UI declared pipelines to code-templated(.yaml) ones.
+          Framework integrations such as SonarQube, Dynatrace, Cypress, etc.
+          </p>
+        </div>
+      </div>
     </div>
   );
 }

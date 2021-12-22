@@ -19,9 +19,6 @@ export default function Contact() {
           <a href="https://github.com/M8anu" target="_blank" rel="noopener noreferrer">
             <i className="fab fa-github"></i> github.com/M8anu
           </a>
-          <a href="https://twitter.com/_M1ndbl0w" target="_blank" rel="noopener noreferrer">
-            <i className="fab fa-twitter"></i> twitter.com/_M1ndbl0w
-          </a>
           <a href="https://t.me/Mindbl0w" target="_blank" rel="noopener noreferrer">
             <i className="fab fa-telegram"></i> Send me a Telegram message!
           </a>

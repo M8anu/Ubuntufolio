@@ -20,9 +20,6 @@ export default function TopBar() {
         <a href="https://github.com/M8anu" target="_blank">
           <i className="fab fa-github"></i>
         </a>
-        <a href="https://twitter.com/_M1ndbl0w" target="_blank">
-          <i className="fab fa-twitter"></i>
-        </a>
         <Link to="/">
           <img src="/images/icons/system/system-shutdown-symbolic.svg"></img>
         </Link>
